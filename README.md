@@ -38,7 +38,7 @@ This project builds a neural network model for sentiment classification using Na
 
 Open the notebook in Jupyter or Colab and run all cells. Ensure all text files are in the same directory for successful data loading.
 
-📖 [View notebook on nbviewer](https://nbviewer.org/github/smzerbe/sentiment-analysis-nlp/blob/main/Sentiment%20Analysis%20(NLP).ipynb)
+[View notebook on nbviewer](https://nbviewer.org/github/smzerbe/sentiment-analysis-nlp/blob/main/Sentiment%20Analysis%20(NLP).ipynb)
 ---
 
 ## Contact
